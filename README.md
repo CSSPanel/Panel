@@ -73,4 +73,4 @@ Detailed installation instructions can be found in the [docs](https://csspanel.d
 -   [Join the Discord](https://discord.gg/eAZU3guKWU): Ask questions, provide suggestions
 -   [Example Panel](https://css.next-il.co.il/): view a demo panel
 -   [Docs](https://csspanel.dev/): Installation instructions
--   [Issues](https://github.com/ShiNxz/CSS-Panel/issues): Raise any issues here
+-   [Issues](https://github.com/CSSPanel/Panel/issues): Raise any issues here

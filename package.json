@@ -1,7 +1,7 @@
 {
 	"name": "css-panel",
 	"author": "ShiNxz",
-	"version": "0.9.8",
+	"version": "0.9.9",
 	"private": true,
 	"scripts": {
 		"dev": "next dev",
