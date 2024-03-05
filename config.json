@@ -1,0 +1,29 @@
+// This is the configuration file for the plugin, you can change the values to your liking.
+// Make sure to put the config file inside "
+{
+	"Version": 7, // The version of the plugin config, don't change this.
+	"DatabaseHost": "", // Your database host
+	"DatabasePort": 3306, // Your database port
+	"DatabaseUser": "", // Your database username
+	"DatabasePassword": "", // Your database password
+	"DatabaseName": "", // Your database name
+	"UseChatMenu": false, // Enable/Disable the chat menu
+	"KickTime": 5, // The time in minutes to kick the player
+	"DisableDangerousCommands": true, // Enable/Disable dangerous commands
+	"BanType": 1, // The type of the ban, 1 = Ban, 2 = BanIP
+	"TeamSwitchType": 1, // The type of the team switch, 1 = Switch, 2 = Force
+	"Discord": {
+		"DiscordLogWebhook": "", // Your discord log webhook
+		"DiscordPenaltyWebhook": "" // Your discord penalty webhook
+	},
+	"DefaultMaps": [], // The server default maps
+	"WorkshopMaps": [], // The server workshop maps
+	"DefaultServerIP": "", // In case your server is under a docker container (pterodactyl), the internal ip will be "0.0.0.0" and the panel wont show correctly in the panel, you can set the external iphere (for example 1.2.3.4).
+	"PanelURL": "", // The panel url
+	"ChatLog": {
+		"ChatLog_Enable": true, // Enable/Disable the chat log - the chat log will be displayed in the panel{' '}
+		"ChatLog_ExcludeMessageContains": "!./" // Exclude messages that contains the following characters{' '}
+	},
+	"ChatLog_ExcludeMessageContainsLessThanXLetters": 0, // Exclude messages that contains less than Xletters
+	"ChatLog_ExcludeMessageDuplicate": false // Exclude duplicate messages
+}

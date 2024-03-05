@@ -1,0 +1,37 @@
+{
+	"window.autoDetectColorScheme": false,
+	"files.exclude": {
+		"**/.git": true,
+		"**/.DS_Store": true,
+		"**/node_modules": true,
+		"**/.svn": true,
+		"**/.hg": true,
+		"**/CVS": true,
+		".git": true,
+		".vscode": true,
+		"build": true,
+		".next": true,
+		"build/**/*.js": {
+			"when": "$(basename).ts"
+		}
+	},
+	"search.exclude": {
+		"**/node_modules": true
+	},
+	"files.watcherExclude": {
+		"**/.git/objects/**": true,
+		"**/.git/subtree-cache/**": true,
+		"**/node_modules/*/**": true
+	},
+	"editor.quickSuggestionsDelay": 1,
+	//"editor.suggest.preview": true,
+	"search.searchOnType": false,
+	"terminal.integrated.gpuAcceleration": "on",
+	"editor.cursorBlinking": "blink",
+	"editor.cursorSmoothCaretAnimation": "on",
+	"editor.minimap.enabled": false,
+	"editor.minimap.renderCharacters": false,
+	"editor.stickyScroll.enabled": true,
+	"editor.renderWhitespace": "none",
+	"typescript.tsdk": "node_modules\\typescript\\lib"
+}
