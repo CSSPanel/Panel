@@ -55,18 +55,17 @@ Detailed installation instructions can be found in the [docs](https://csspanel.d
         -   [x] Edit, delete bans from the db.
         -   [x] Add bans from the panel
         -   [x] Add bans from the servers modal
-    -   [ ] Manage Settings
+    -   [x] Manage Settings
         -   [x] General settings - change the panel name, logo, etc.
         -   [x] SEO settings - change the panel SEO settings such as title, description, etc.
         -   [x] Design settings - change the panel design, colors, etc.
-        -   [ ] Discord settings - add discord webhook for bans, comms, etc. from the panel.
+        -   [x] Discord settings - add discord webhook for bans, comms, etc. from the panel.
         -   [x] Advanced settings - debug mode, early access, etc.
         -   [x] Customization settings - add custom css, js, etc.
-        -   [ ] Networks - add different networks like discord, steam, etc. to the panel and add them as a contact method in the panel and footer icons.
-		-	[ ] Custom Pages - add the ability to create custom pages from the admin panel.
-		-	[ ] Custom Menus - add the ability to create custom menus from the admin panel.
+		-	[x] Custom Pages - add the ability to create custom pages from the admin panel.
+		-	[x] Custom Menus - add the ability to create custom menus from the admin panel.
 -   [ ] Language support - add the ability to change the panel language from the admin panel, make it possible to create custom languages and add them to the panel through the repo.
--   [ ] Change the way of running the panel to be easier for non developers, and make the panel ready for production use.
+-   [x] Change the way of running the panel to be easier for non developers, and make the panel ready for production use.
 
 ## Links
 
