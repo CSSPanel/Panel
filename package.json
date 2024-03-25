@@ -10,7 +10,7 @@
 	"scripts": {
 		"dev": "next dev",
 		"build": "next build",
-		"start": "git pull && next start",
+		"start": "next start",
 		"lint": "next lint",
 		"pm2": "pm2 startOrRestart ecosystem.config.js",
 		"update": "git stash push --include-untracked && git stash drop",
