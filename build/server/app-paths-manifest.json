@@ -1,18 +1,18 @@
 {
   "/_not-found": "app/_not-found.js",
-  "/bans/page": "app/bans/page.js",
   "/mutes/page": "app/mutes/page.js",
   "/skins/page": "app/skins/page.js",
-  "/[customPage]/page": "app/[customPage]/page.js",
-  "/page": "app/page.js",
+  "/bans/page": "app/bans/page.js",
   "/servers/page": "app/servers/page.js",
-  "/setup/page": "app/setup/page.js",
+  "/page": "app/page.js",
+  "/[customPage]/page": "app/[customPage]/page.js",
   "/(main)/admin/admins/page": "app/(main)/admin/admins/page.js",
-  "/(main)/admin/bans/page": "app/(main)/admin/bans/page.js",
-  "/(main)/admin/page": "app/(main)/admin/page.js",
-  "/(main)/admin/mutes/page": "app/(main)/admin/mutes/page.js",
   "/(main)/admin/modules/page": "app/(main)/admin/modules/page.js",
+  "/(main)/admin/(statistics)/page": "app/(main)/admin/(statistics)/page.js",
+  "/(main)/admin/logs/page": "app/(main)/admin/logs/page.js",
+  "/(main)/admin/mutes/page": "app/(main)/admin/mutes/page.js",
+  "/(main)/admin/bans/page": "app/(main)/admin/bans/page.js",
   "/(main)/admin/servers/page": "app/(main)/admin/servers/page.js",
   "/(main)/admin/settings/page": "app/(main)/admin/settings/page.js",
-  "/(main)/admin/logs/page": "app/(main)/admin/logs/page.js"
+  "/setup/page": "app/setup/page.js"
 }
