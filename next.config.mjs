@@ -27,6 +27,7 @@ const nextConfig = {
 	},
 	env: {
 		version: packageJson.version,
+		MAP_IMAGES_URL: process.env.MAP_IMAGES_URL,
 	},
 }
 

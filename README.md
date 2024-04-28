@@ -37,8 +37,8 @@ Detailed installation instructions can be found in the [docs](https://csspanel.d
 -   [x] Comms - take the comms data from the database and display it in the panel.=
     -   [x] Comms status as table
 -   [x] Admin Panel - manage the whole panel settings, admins, servers, comms and bans.
-    -   [ ] Statistics - show statistics about the panel, such as the amount of admins, servers, comms, bans, etc.
-        -   [ ] Plugin: find out a way of count the server entries by the server_id and show it in the statistics.
+    -   [x] Statistics - show statistics about the panel, such as the amount of admins, servers, comms, bans, etc.
+        -   [x] Plugin: find out a way of count the server entries by the server_id and show it in the statistics.
             -   [ ] Plugin: for each server give a button that shows a list of all connected players from 2 hours ago.
     -   [x] Logs
     -   [x] Manage Admins

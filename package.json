@@ -70,7 +70,7 @@
 		"react-parallax-tilt": "^1.7.215",
 		"sass": "^1.70.0",
 		"sharp": "^0.33.2",
-		"steam-api-sdk": "^1.4.5",
+		"steam-api-sdk": "^1.5.0",
 		"swr": "^2.2.4",
 		"tailwind-variants": "^0.1.18",
 		"use-debounce": "^10.0.0",
