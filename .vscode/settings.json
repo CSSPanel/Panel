@@ -34,5 +34,8 @@
 	"editor.stickyScroll.enabled": true,
 	"editor.renderWhitespace": "none",
 	"typescript.tsdk": "node_modules\\typescript\\lib",
-	"search.useIgnoreFiles": false
+	"search.useIgnoreFiles": false,
+	"git.ignoreSubmodules": false,
+	"search.useParentIgnoreFiles": false,
+	"explorer.excludeGitIgnore": false
 }
