@@ -1,4 +1,5 @@
-import packageJson from './package.json' with { type: 'json' }
+import { readFile } from "node:fs/promises";
+const packageJson = JSON.parse(await readFile("./package.json", "utf8"));
 
 /** @type {import('next').NextConfig} */
 const nextConfig = {
@@ -15,19 +16,19 @@ const nextConfig = {
 	// 		},
 	// 	]
 	// },
-	distDir: 'build',
+	distDir: "build",
 	// output: 'standalone',
 	images: {
 		remotePatterns: [
 			{
-				protocol: 'https',
-				hostname: '**.steamstatic.com',
+				protocol: "https",
+				hostname: "**.steamstatic.com",
 			},
 		],
 	},
 	env: {
 		version: packageJson.version,
 	},
-}
+};
 
-export default nextConfig
+export default nextConfig;
