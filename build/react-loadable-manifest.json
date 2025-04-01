@@ -1,33 +1,9 @@
 {
   "app\\UI\\Layouts\\Main\\Charts\\Area\\index.tsx -> react-apexcharts": {
-    "id": 73598,
+    "id": 97796,
     "files": [
-      "static/chunks/63a829c1.588e3d9a9ef3a234.js",
-      "static/chunks/3598.f927231ae52aedb6.js"
-    ]
-  },
-  "node_modules\\.pnpm\\@nextui-org+navbar@2.2.8_@n_12c62db8b2a8f572723e0e499d598815\\node_modules\\@nextui-org\\navbar\\dist\\chunk-5HDGDWGW.mjs -> @nextui-org/dom-animation": {
-    "id": 42976,
-    "files": [
-      "static/chunks/2976.8db5dd93521d51f4.js"
-    ]
-  },
-  "node_modules\\.pnpm\\@nextui-org+navbar@2.2.8_@n_12c62db8b2a8f572723e0e499d598815\\node_modules\\@nextui-org\\navbar\\dist\\chunk-QKHJHOQ7.mjs -> @nextui-org/dom-animation": {
-    "id": 42976,
-    "files": [
-      "static/chunks/2976.8db5dd93521d51f4.js"
-    ]
-  },
-  "node_modules\\.pnpm\\next@15.2.4_react-dom@18.3._d0ef33fbfc94a2d543937c36be592a66\\node_modules\\next\\dist\\client\\index.js -> ../pages/_app": {
-    "id": 15744,
-    "files": [
-      "static/chunks/5744.77ed3b7566ec22d5.js"
-    ]
-  },
-  "node_modules\\.pnpm\\next@15.2.4_react-dom@18.3._d0ef33fbfc94a2d543937c36be592a66\\node_modules\\next\\dist\\client\\index.js -> ../pages/_error": {
-    "id": 32309,
-    "files": [
-      "static/chunks/2309.1193a1a9c52d231c.js"
+      "static/chunks/721aab79.50a42166ce8ccf11.js",
+      "static/chunks/7796.91b853f245ed0d9b.js"
     ]
   }
 }
