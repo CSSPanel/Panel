@@ -1,7 +1,7 @@
 {
 	"name": "css-panel",
 	"author": "ShiNxz",
-	"version": "1.3.4",
+	"version": "1.3.5",
 	"private": true,
 	"repository": {
 		"type": "git",
@@ -49,7 +49,7 @@
 		"@nextui-org/switch": "2.0.28",
 		"@nextui-org/system": "2.1.2",
 		"@nextui-org/table": "2.0.33",
-		"@nextui-org/tabs": "2.0.29",
+		"@nextui-org/tabs": "2.2.7",
 		"@nextui-org/theme": "2.2.3",
 		"@nextui-org/tooltip": "2.0.33",
 		"@nextui-org/user": "2.0.28",
