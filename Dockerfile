@@ -20,7 +20,7 @@ COPY . .
 ENV NEXT_TELEMETRY_DISABLED 1
 
 # Build the project using pnpm
-RUN npm run build
+# RUN npm run build
 
 # Production image, copy all the files and run next
 FROM base AS runner
