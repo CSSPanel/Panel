@@ -1,7 +1,7 @@
 {
 	"name": "css-panel",
 	"author": "ShiNxz",
-	"version": "1.3.5",
+	"version": "1.3.6",
 	"private": true,
 	"repository": {
 		"type": "git",
@@ -24,7 +24,7 @@
 		"@internationalized/date": "3.5.3",
 		"@mantine/form": "7.9.1",
 		"@monaco-editor/react": "4.6.0",
-		"@nextui-org/accordion": "2.0.32",
+		"@nextui-org/accordion": "^2.2.7",
 		"@nextui-org/autocomplete": "2.0.16",
 		"@nextui-org/button": "2.0.26",
 		"@nextui-org/card": "2.0.28",
