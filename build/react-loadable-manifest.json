@@ -5,5 +5,11 @@
       "static/chunks/721aab79.1656280c2a2d8b20.js",
       "static/chunks/7989.afa7d219e27bfd24.js"
     ]
+  },
+  "node_modules\\.pnpm\\@nextui-org+accordion@2.2.7_4973061d7470f404c00df124e34033d3\\node_modules\\@nextui-org\\accordion\\dist\\chunk-3XWHXVUH.mjs -> @nextui-org/dom-animation": {
+    "id": 65677,
+    "files": [
+      "static/chunks/5677.8b22a0f8e75c7d98.js"
+    ]
   }
 }
