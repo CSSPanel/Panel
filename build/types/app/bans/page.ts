@@ -1,4 +1,4 @@
-// File: C:\Projects\CSS-Panel\app\bans\page.tsx
+// File: /Users/amireliz/Documents/Projects/CSSPanel/Panel/app/bans/page.tsx
 import * as entry from '../../../../app/bans/page.js'
 import type { ResolvingMetadata, ResolvingViewport } from 'next/dist/lib/metadata/types/metadata-interface.js'
 
