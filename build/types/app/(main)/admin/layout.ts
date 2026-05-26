@@ -1,4 +1,4 @@
-// File: /Users/amireliz/Documents/Projects/CSSPanel/Panel/app/(main)/admin/layout.tsx
+// File: /Users/amir/Downloads/Panel-source/app/(main)/admin/layout.tsx
 import * as entry from '../../../../../app/(main)/admin/layout.js'
 import type { ResolvingMetadata, ResolvingViewport } from 'next/dist/lib/metadata/types/metadata-interface.js'
 

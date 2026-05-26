@@ -1,4 +1,4 @@
-// File: /Users/amireliz/Documents/Projects/CSSPanel/Panel/app/skins/layout.tsx
+// File: /Users/amir/Downloads/Panel-source/app/skins/layout.tsx
 import * as entry from '../../../../app/skins/layout.js'
 import type { ResolvingMetadata, ResolvingViewport } from 'next/dist/lib/metadata/types/metadata-interface.js'
 
