@@ -1,11 +1,12 @@
-FROM node:20 AS base
+FROM node:26.12.1 AS base
 
 # Install dependencies only when needed
 FROM base AS deps
 WORKDIR /app
 
-# Install pnpm globally
-RUN npm install -g pnpm
+# pnpm 10 reads this lockfile's format (9.0). Unpinned, `npm install -g pnpm` now gets pnpm 12,
+# which stops the install on the build scripts it skips (esbuild, sharp).
+RUN npm install -g pnpm@10.34.9
 
 # Install dependencies using pnpm
 COPY package.json pnpm-lock.yaml* ./
